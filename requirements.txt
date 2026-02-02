@@ -1,6 +1,0 @@
-dash
-pandas
-pytest
-"dash[testing]"
-black
-flake8
