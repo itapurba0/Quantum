@@ -34,7 +34,6 @@ python app.py
 
 Notes
 
-- If you don't have Python 3.9 installed, install it or adjust the commands to whichever Python 3.x you will use. The project was specified to use Python 3.9.
 - The sample `app.py` is a tiny Dash application that uses `pandas`. It will run on http://127.0.0.1:8050 by default.
 - Once the venv is active and dependencies installed, open the project in your IDE and point the interpreter to `.venv/bin/python`.
 
